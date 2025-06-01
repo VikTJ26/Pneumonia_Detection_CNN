@@ -1,4 +1,4 @@
-**Pneumonia Detection using CNN**
+# Pneumonia Detection using CNN
 
 Pneumonia is a serious lung infection caused by bacteria, viruses, or fungi. It ranks as the eighth leading cause of death in the U.S. and is a major cause of mortality in children under five worldwide. Early detection is critical, and chest X-rays are commonly used by radiologists to identify signs of infection and inform treatment decisions.
 
